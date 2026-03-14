@@ -11,7 +11,7 @@
 
 ![Python](https://img.shields.io/badge/Python-a8c686?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-a8c686?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-a8c686?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-a8c686?style=for-the-badge&logo=c&logoColor=white)
 ![Vegas Pro](https://img.shields.io/badge/Vegas%20Pro-a8c686?style=for-the-badge&logo=sony&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-a8c686?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-a8c686?style=for-the-badge&logo=css3&logoColor=white)
